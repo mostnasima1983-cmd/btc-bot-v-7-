@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 CONFIG = {
     "symbol": "PAXGUSDT",
-    "leverage": 10,
+    "leverage": 5,
     "tp": 0.6,
     "sl": 0.4,
     "rr": "1:1.5",
